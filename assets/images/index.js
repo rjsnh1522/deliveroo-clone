@@ -1,0 +1,6 @@
+export {default as BurgerImage} from './burger.jpg'
+export {default as SushiImage} from './sushi.jpg'
+export {default as LimaImage} from './lima.jpg'
+export {default as SweetsImage} from './sweets.jpg'
+export {default as PizzaImage} from './pizza.jpg'
+export {default as SaladImage} from './salad.jpg'
